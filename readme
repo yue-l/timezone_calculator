@@ -1,0 +1,21 @@
+Date Calculator converts date time into other timezones.
+
+The project aims to learn more details about PHP timezones conversion. The project has 5 timezones entered. It will be much better if we can present a full mapping for timezones to specific locations.
+
+Yue
+
+Uses Bootstrap CSS and JQuery.
+Project imports Bootstrap DateTimePicker for calendar feature. moment.js as the dependency for Date Time Picker.
+
+App entry point:
+index.php
+
+Development Environment: PHP7.0-3, Apache 2.4-18, Arch Linux
+
+Develop Log:
+17/02/2016 Project init. Completed all logic, ui
+18/02/2016 Project fin.  Completed testings, input form validations, changed layout.
+
+Issue Log:
+17/02/2016 Yue - The js event bindings can be improved.
+18/02/2016 Yue - As completing more testing, NZDT and NZST can cause 1 hour difference for the outputs on our system.
